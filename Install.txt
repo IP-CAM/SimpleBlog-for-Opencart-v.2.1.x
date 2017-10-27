@@ -1,0 +1,24 @@
+                                             Blog Module
+==============================================
+
+Note : We suggest you to take backup of your code and database before installing this extension.
+
+Step 1: Copy paste a admin and catalog folder in your new Opencart Version. 
+
+Step  2: Login to admin panel and add extension name is simple blog and if ask to install database  then press install database button 
+
+Note: if ask (Permission Denied!) then go to User -> User Groups and provide permission for this module and try to reinstall again then your module install successfully completed.
+
+Step 3: Add  simple_blog.ocmod.xml file for menu link of article, comment and author and report  and refresh it by going->modifications->press refresh button then display all link (author, comment, report, article)
+
+Step: 4 to if view in front side then set in layout by admin- _Layouts-->home
+
+
+======================for capcha in article====================
+Note: for enable a Capcha in article page of blog then 
+             
+Step:1: Go to extension-capcha-Basic Captcha(enable)
+Step 2: Go to settings->option-captcha->check a option "capcha" then u can see a capcha in article page
+
+
+"Enjoy This Simple Blog Module” & Feel free to share your suggestions / feedback at support@opcrat.com
